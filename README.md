@@ -2,33 +2,40 @@
 
 ## **PREAMBULO**
 
-Lil es una marca de productos de cuidado personal, elaborados artesanalmente, sin químicos ni conservadores artificiales (se utiliza extracto de semilla toronja como conservador natural), creada en 2016 por la necesidad de su fundadora por crear productos de origen natural en un principio para uso personal. Con el paso del tiempo fue perfeccionando la elaboración del mismo con los conocimientos adquiridos en diferentes cursos de cosmética natural y herbolaria.
-Al ver los beneficios de los productos empezó a comercializar en un principio con familiares y amigos, y consecutivamente al ver la gran aceptación, empezó con el comercio por medio de grupos de venta en Facebook.
+Lil es una marca de productos de cuidado personal, elaborados artesanalmente, sin químicos ni conservadores artificiales (Utiliza extracto de semilla toronja como conservador natural).
 
-Su fundadora está comprometida con la ideología  de conservación del medio ambiente, por este motivo usa solo ingredientes naturales, no testea con animales y tiene la opción de reciclar los envases de los diferentes productos.  
+La idea surge en 2016 debido a los problemas dermatológicos que llevan a su creadora a consultar a especialistas que recomiendan tratamientos dermatológicos de alto costo que no siempre funcionaban, debido a esto se plantea la elaboración de productos de origen natural sin químicos.
 
-En su  catálogo cuenta con 10 productos entre los cuales encontramos bálsamo labial, bálsamo para contorno de ojos, desodorante, jabón líquido, gel antibacterial, suero nutritivo nocturno,  humectante facial y de cuerpo, desmaquillante, tratamiento capilar, gel para problemas circulatorios de piernas. Destaca el nombre de cada producto en lenguas indígenas esto para darle personalidad a cada uno y seguir conservando este idioma. 
+Con el paso del tiempo fue perfeccionando la elaboración de los mismos con los conocimientos adquiridos en diferentes talleres de cosmética natural y herbolaria. Al ver los beneficios de los productos empezó a comercializarlos; al principio con familiares y amigos; posteriormente  al ver la gran aceptación, empezó a realizar ventas por medio de grupos de Facebook.
+
+Su creadora está comprometida con la ideología de conservación del medio ambiente, por este motivo usa solo ingredientes naturales, no testea con animales y tiene la opción para sus clientas de  reciclar los envases de los diferentes productos (en estos casos aplica un descuento especial del 10%).
+
+En su catálogo cuenta con 10 productos entre los cuales encontramos bálsamo labial, bálsamo para contorno de ojos, desodorante, jabón líquido, gel antibacterial, suero nutritivo nocturno, humectante facial y de cuerpo, desmaquillante, tratamiento capilar, gel para problemas circulatorios de piernas. Destaca el nombre de cada producto en lenguas indígenas esto para darle personalidad a cada uno y seguir conservando esta lengua.
+
 
 
 ## **PROBLEMA**
 
 Unos de los planes de esta emprendedora es expandir el negocio, pero se ha encontrado con varias trabas para el desarrollo del mismo.
+1.- Para poder pertenecer a un grupo de venta en bazar  e impulsar ventas se necesita cubrir muchos requisitos, exhaustiva promoción del mismo y el pago de una renta alta que incluye solo un fin de semana ($6´000.00 MXN).
 
-1.- Para poder  pertenecer a un grupo de venta en bazar necesita cubrir muchos requisitos, exhaustiva promoción del mismo y el pago de una renta alta por el fin de semana ($6000.00).
+2.-El coincidir en tiempos con las clientas para el día y hora de entrega implica un mayor tiempo para la realización de la compra.
 
-2.-Algunas clientas no llegan al punto  acordado para la entrega del producto.
+3.-Algunas clientas no llegan al punto acordado para la entrega del producto sin previa cancelación. O cambian el horario o fecha de entrega, lo que implica retraso en la venta y modificación en la agenda de las ventas del día.
 
-3.- Tiene que publicar constantemente en páginas de comercio sus productos para generar ventas.
+4.- Constantemente tiene se tiene que dar difusión de la marca en páginas  o grupos de comercio para mantener la publicación activa y generar ventas.
 
-4.-Pierde algunas ventas por no contar con alguna terminal para el pago en línea.
+5.-Se han perdido ventas por no contar con alguna terminal para el pago o pago en línea en el caso que las clientas no cuenten con dinero en efectivo.
+6.-Clientes potenciales de otros estados de la república no pueden realizar la compra, ya que no cuenta con pago en línea y entrega de producto por mensajería.
 
-5.-Clientes potenciales de otros estados de la república no pueden realizar la compra, ya que no cuenta con entrega del producto por mensajería.
+7.- Problemas con personal en el sistema colectivo metro por hacer entregas en este lugar.
 
-6.- Problemas con personal en el sistema colectivo  metro por hacer entregas en este lugar.
+8.- A pesar de la constante difusión en FB, las ventas siguen siendo escasas.
+
 
 ## **PROPUESTA**
 
-Crear un E-Commerce que le  permita realizar envíos y cobros en línea para expandir su mercado a otros estados de la república. Dándole más formalidad al negocio impulsando su crecimiento  y  permanencia en el mercado.
+Crear un E-Commerce permitiendo expandir el alcance de negocio , aumentar público objetivo impulsando crecimiento y permanencia en el mercado,sin limitación de horarios comerciales, mejorando imagen y prestigio de la marca generando confianza en los clientes potenciales.  
 
 
 ## **INVESTIGACIÓN**

@@ -1,6 +1,6 @@
 # **E-COMMERCE**
 
-## **Preambulo**
+## **Preámbulo**
 
 Lil es una marca 100% mexicana de productos de cuidado personal, elaborados artesanalmente, sin químicos ni conservadores artificiales (Utiliza extracto de semilla toronja como conservador natural).
 
@@ -37,7 +37,7 @@ También nos dimos a la tarea de entrevistar a mujeres que utilizan productos de
 -Que piensan de los productos naturales u orgánicos
 -Si el tema de el uso de productos químicos así como el impacto que ésta industria tiene en animales, medio ambiente y su propio organismo es relevante en la elección de sus productos o marcas.
 
-Éstas entrevistas fueron de suma importancia en la elaboración de nuestra propuesta pues descubrimos una [user persona](https://drive.google.com/file/d/1LoxI3ZXxtOLmCaCB-kIN7rPTb-erOEtu/view?usp=sharing) que es una clienta potencial pues cuenta con rutinas de cuidado personal, presupuestos mensuales para éste tipo de productos y además tiene la inquietud sobre los productos naturales pero carece de información y tiene dos prejuicios importantes:
+Éstas entrevistas fueron de suma importancia en la elaboración de nuestra propuesta pues descubrimos una [user persona](https://drive.google.com/file/d/1LoxI3ZXxtOLmCaCB-kIN7rPTb-erOEtu/view?usp=sharing) y su [mapa de empatía](https://drive.google.com/file/d/16LOs80T76bMNsMvkuZNsxFlcoa0a3I-7/view?usp=sharing) de ésta clienta potencial pues cuenta con rutinas de cuidado personal, presupuestos mensuales para éste tipo de productos y además tiene la inquietud sobre los productos naturales pero carece de información y tiene dos prejuicios importantes:
 
 1.- Los productos naturales u orgánicos son muy caros.
 2.- Los productos naturales y orgánicos requieren una inversión mucho mayor de tiempo en la rutina de cuidado personal.
@@ -110,7 +110,7 @@ Para poder llevar a cabo la implementación de un e-commerce recomendamos contar
 
 En éste sentido buscamos tambien alternativas para  que Lil como pequeña empresa no resienta el incremento de los costos de cambio de envasado, comercialización on-line, comisiones de proveedores de cobro on-line y paquetería. Por lo que además de sugerir un cambio de precios (que sigue dejando precios bajos dentro del mercado de productos naturales) buscamos las mejores alternativas de [provedores de cobro](https://docs.google.com/document/d/1_8hjKyGHhuzbUOD1zbryVptvsj0r6V2pPEmpu-KUqAo/edit?usp=sharing) y las [paqueterías en CDMX](https://drive.google.com/file/d/1zDNJkUefTxrgp66KMatkpgQ0H9d7RHIh/view?usp=sharing) y en el [resto de la república](https://www.fedex.com/mx/index.html?cmp=KNC-1004726-112-2-950-1000000-LAC-MX-ES-MXRGPURBRANDBMM&gclid=CjwKCAjwoMPcBRAWEiwAiAqZh1ok6ppPB8US34WqJvwufACE-vUiCKkGcZXmHpRVGuEuEOr2mX1apRoCSMcQAvD_BwE) más competitivas.
 
-Tomando en cuenta todos los puntos mencionados realizamos la propuesta de E-Commerce que permitirá llegar a un público más amplio, incrementar ventas sin limitación, que no tendrá limitación de horarios comerciales, que impulse el crecimiento y permanencia en el mercado y que mejore la imagen y prestigio de la marca generando confianza en los clientes potenciales y cautivas.
+Tomando en cuenta todos los puntos mencionados realizamos la propuesta de E-Commerce que permitirá llegar a un público más amplio, incrementar ventas sin limitación, que no tendrá limitación de horarios comerciales, que impulse el crecimiento y permanencia en el mercado y que mejore la imagen y prestigio de la marca generando confianza en los clientes potenciales y cautivas, iniciamos tomando en cuenta un primer [Flow Chart](https://whimsical.co/N8VDyP7sGTGRhJCr1ZbtVg) para empezar a esbozar la tienda de nuestra clienta.
 
  
 ## **Criterios de diseño**
@@ -121,7 +121,6 @@ Tomando en cuenta todos los puntos mencionados realizamos la propuesta de E-Comm
 
 [Prototipo alta fidelidad](https://marvelapp.com/ecj1369/screen/47544031)
 
-[Prototipo alta fidelidad](https://marvelapp.com/ecj1369/screen/47544031)
 
 ## **Nuestro Proceso en Loom**
 

@@ -123,14 +123,38 @@ Tomando en cuenta todos los puntos mencionados realizamos la propuesta de E-Comm
  
 ## **Criterios de diseño**
 
+Empezamos realizando un sketch para idear el flujo de la página, se pensó que el flujo de este fuera sencillo y que la compra se hiciera a los menores clicks posibles.
+
 [Sketch](https://drive.google.com/drive/u/0/folders/1UqAgbdp5ZgewdhUTTXD0QPKh46KOW_ST)
+
+### **Paleta de colores**
+ 
+El color morado  que representa el logo de la marca se basó en transmitir una  sensación de lujo y riqueza,representante  de  productos de belleza, y contenido relacionado con chicas adolescentes y marcas femeninas.
+ 
+Al inicio se buscaron paletas de colores relacionadas con el color del logo, pero al momento que querer aplicarlo al diseño de la página, no se obtuvo el resultado esperado, los colores no transmitían el objetivo de la marca.
 
 
 ![img image1](https://github.com/rxmstrd/e-commerce/blob/master/Images/naranja.jpg?raw=true)
+
+
+Al recibir feedback se pensó en utilizar una paleta de colores que combinara con el color del logotipo, se utilizaron tonos de verde por su efecto armónico, ya que es un color asociado con la naturaleza, calma, paz y energía va de acuerdo con nuestra filosofía de la marca.
+
+
 ![img image2](https://github.com/rxmstrd/e-commerce/blob/master/Images/verde.png?raw=true)
+
 ![img image3](https://github.com/rxmstrd/e-commerce/blob/master/Images/verde2.png?raw=true)
+
+
+Seguimos trabajando con el diseño de la página,  y gracias a los feedbacks optamos  por cambiar tanto el fondo (Hacerlo lo más limpio posible), se decidió poner en la página de inicio la información de nuestra marca, ya que como es nueva, es importante que los usuarios tenga esta información en primer plano, también se optó por tener un catálogo en el menú ya que por las entrevistas de las usuarias se descubrió que un punto de dolor era el no encontrar la información del producto deseado, ni actualizada.
+
+
 ![img image4](https://github.com/rxmstrd/e-commerce/blob/master/Images/preliminar.png?raw=true)
+
 ![img image5](https://github.com/rxmstrd/e-commerce/blob/master/Images/Final.jpg?raw=true)
+
+### **Tipografía** 
+
+Se había decidido usar la tipografía Glifo pero al momento de hacer testing los usuarios nos mencionaron  que esta no era legible  asi que se eligió la fuente Avenir Next, que es una letra muy elástica y legible, con un aspecto armonioso que da muy buen resultado tanto en textos como en títulos
 
 [Prototipo alta fidelidad](https://marvelapp.com/ecj1369/screen/47544031)
 

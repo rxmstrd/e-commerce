@@ -104,6 +104,9 @@ Aunque ya nuestra clienta nos había comentado que buscaba cambiar el embazado d
 En cuanto al logo actual encontramos que aunque la paleta de colores elegida cumplía la intensión de la creadora, que era identificarse con un público de mujeres primordialmente feministas, al ampliar el margen de mercado con mujeres que no necesariamente se identifican con ésta ideologia recomendamos la utilización de verdes que remiten a lo natural para llegar a nuestras usuarias potenciales y a las cautivas. Creamos una slogan que identifica a la marca y nuestro público, además agregamos un elemento vivo, una libélula para reforzar el movimiento de la naturaleza.
 Siendo ésta parte de la propuesta la más drástica pues renueva la marca por completo hemos recomendado considerarla pero en caso de permanecer con el logo anterior marcar más la jerarquía de la información en la etiqueta.
 
+![logo logo1](https://github.com/rxmstrd/e-commerce/blob/master/Images/jazhei.jpg?raw=true)
+![logo logo2](https://github.com/rxmstrd/e-commerce/blob/master/Images/logo2.png?raw=true)
+
 Imprementación de E-commerce:
 
 Para poder llevar a cabo la implementación de un e-commerce recomendamos contar con un stock en inventario que permita a nuestra clienta cumplir con sus entregas e incrementar su producción de forma gradual, acorde al nivel de respuesta que se genere en el e-commerce.
@@ -121,6 +124,11 @@ Tomando en cuenta todos los puntos mencionados realizamos la propuesta de E-Comm
 
 [Prototipo alta fidelidad](https://marvelapp.com/ecj1369/screen/47544031)
 
+![img image1](https://github.com/rxmstrd/e-commerce/blob/master/Images/naranja.jpg?raw=true)
+![img image2](https://github.com/rxmstrd/e-commerce/blob/master/Images/verde.png?raw=true)
+![img image3](https://github.com/rxmstrd/e-commerce/blob/master/Images/verde2.png?raw=true)
+![img image4](https://github.com/rxmstrd/e-commerce/blob/master/Images/preliminar.png?raw=true)
+![img image5](https://github.com/rxmstrd/e-commerce/blob/master/Images/Final.jpg?raw=true)
 
 ## **Nuestro Proceso en Loom**
 

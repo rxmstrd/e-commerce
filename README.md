@@ -153,6 +153,9 @@ Seguimos trabajando con el diseño de la página,  y gracias a los feedbacks opt
 
 ![img image4](https://github.com/rxmstrd/e-commerce/blob/master/Images/preliminar.png?raw=true)
 
+Para llevar a cabo la última iteración nuevamente tomamos en cuenta el Feedback donde se nos mencionó la importacia de tener un hombre que hable sobre la empresa dando un mensaje claro siendo que nuestra Clienta esta empezando a darse a conocer y costruir su marca. 
+Volvimos a cambiar la tipografía buscando mejor legibilidad y agregamos la presentación inicial de forma clara o corta.
+
 ![img image5](https://github.com/rxmstrd/e-commerce/blob/master/Images/Final.jpg?raw=true)
 
 ### **Tipografía** 

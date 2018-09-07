@@ -33,14 +33,14 @@ Como resultado de la obervación contextual y de las entrevistas pudimos elabora
 
 También nos dimos a la tarea de entrevistar a mujeres que utilizan productos de cuidado personal de [MARCAS COMERCIALES](https://drive.google.com/open?id=1Yht7535yhlSecP9KqKFaR7RoMFM-B0n8) con el fin de conocer:
 
--Que las motiva a utilizar éste tipo de productos
--Que piensan de los productos naturales u orgánicos
--Si el tema de el uso de productos químicos así como el impacto que ésta industria tiene en animales, medio ambiente y su propio organismo es relevante en la elección de sus productos o marcas.
+• Que las motiva a utilizar éste tipo de productos
+• Que piensan de los productos naturales u orgánicos
+• Si el tema de el uso de productos químicos así como el impacto que ésta industria tiene en animales, medio ambiente y su propio organismo es relevante en la elección de sus productos o marcas.
 
 Éstas entrevistas fueron de suma importancia en la elaboración de nuestra propuesta pues descubrimos una [user persona](https://drive.google.com/file/d/1LoxI3ZXxtOLmCaCB-kIN7rPTb-erOEtu/view?usp=sharing) y su [mapa de empatía](https://drive.google.com/file/d/16LOs80T76bMNsMvkuZNsxFlcoa0a3I-7/view?usp=sharing) de ésta clienta potencial pues cuenta con rutinas de cuidado personal, presupuestos mensuales para éste tipo de productos y además tiene la inquietud sobre los productos naturales pero carece de información y tiene dos prejuicios importantes:
 
-1.- Los productos naturales u orgánicos son muy caros.
-2.- Los productos naturales y orgánicos requieren una inversión mucho mayor de tiempo en la rutina de cuidado personal.
+• 1.- Los productos naturales u orgánicos son muy caros.
+• 2.- Los productos naturales y orgánicos requieren una inversión mucho mayor de tiempo en la rutina de cuidado personal.
 
 Gracias a toda la información obtenida y los productos obtenidos pudimos identificar áreas de oportunidad y recabar la información necesaria para identificar las necesidades del negocio y del usuario que fueron la base para la elaboración de la propuesta que realizamos a nuestra clienta.
 
@@ -101,8 +101,11 @@ Realizar un cambio de branding:
 
 Aunque ya nuestra clienta nos había comentado que buscaba cambiar el embazado de la marca, durante la investigación vimos la importancia de un cambio integral en la imagen y marca. Tomando en cuenta que el vidrio es un producto más viable para el reciclaje y utilizándolo se mejora en gran medida la imagen pensamos que es un punto importante para tomar en cuenta.
 
-En cuanto al logo actual encontramos que aunque la paleta de colores elegida cumplía la intensión de la creadora, que era identificarse con un público de mujeres primordialmente feministas, al ampliar el margen de mercado con mujeres que no necesariamente se identifican con ésta ideologia recomendamos la utilización de verdes que remiten a lo natural para llegar a nuestras usuarias potenciales y a las cautivas. Creamos una slogan que identifica a la marca y nuestro público, además agregamos un elemento vivo, una libélula para reforzar el movimiento de la naturaleza.
-Siendo ésta parte de la propuesta la más drástica pues renueva la marca por completo hemos recomendado considerarla pero en caso de permanecer con el logo anterior marcar más la jerarquía de la información en la etiqueta.
+En cuanto al logo actual encontramos que aunque la paleta de colores elegida cumplía la intensión de la creadora, que era identificarse con un público de mujeres primordialmente feministas, al ampliar el margen de mercado con mujeres que no necesariamente se identifican con ésta ideologia recomendamos la utilización de verdes que remiten a lo natural para llegar a nuestras usuarias potenciales y a las cautivas. Creamos una slogan que identifica a la marca y nuestro público, además agregamos un elemento vivo, una libélula para reforzar la idea de movimiento y de la naturaleza.
+
+Cabe señalar que la nueva imagen integrada a la propuesta de E-Commerce ha funcionado muy bien, pues tanto las mujeres testeadas como algunas compañeras presentes en la demostración del producto se han interesado en conocer Jazhei y han señalado las ganas de adquirir algunos de los productos.
+
+Sin embargo, siendo ésta parte de la propuesta la más drástica pues renueva la marca por completo hemos recomendado considerarla con base en éstos resultados, pero en caso de permanecer con el logo anterior marcar más la jerarquía de la información en la etiqueta.
 
 ![logo logo1](https://github.com/rxmstrd/e-commerce/blob/master/Images/jazhei.jpg?raw=true)
 ![logo logo2](https://github.com/rxmstrd/e-commerce/blob/master/Images/logo2.png?raw=true)
@@ -120,9 +123,6 @@ Tomando en cuenta todos los puntos mencionados realizamos la propuesta de E-Comm
 
 [Sketch](https://drive.google.com/drive/u/0/folders/1UqAgbdp5ZgewdhUTTXD0QPKh46KOW_ST)
 
-[Primeras propuestas de diseño](https://drive.google.com/drive/u/0/folders/1uzU3YqL1EMEtKqTvxySq-0O_txUWlb7X)
-
-[Prototipo alta fidelidad](https://marvelapp.com/ecj1369/screen/47544031)
 
 ![img image1](https://github.com/rxmstrd/e-commerce/blob/master/Images/naranja.jpg?raw=true)
 ![img image2](https://github.com/rxmstrd/e-commerce/blob/master/Images/verde.png?raw=true)
@@ -130,9 +130,13 @@ Tomando en cuenta todos los puntos mencionados realizamos la propuesta de E-Comm
 ![img image4](https://github.com/rxmstrd/e-commerce/blob/master/Images/preliminar.png?raw=true)
 ![img image5](https://github.com/rxmstrd/e-commerce/blob/master/Images/Final.jpg?raw=true)
 
+[Prototipo alta fidelidad](https://marvelapp.com/ecj1369/screen/47544031)
+
 ## **Nuestro Proceso en Loom**
 
 Aquí mostramos nuestro [proceso de trabajo](https://www.useloom.com/share/b152f72af0ad4e10a2d18896242e394e).
+
+
 
 
  

@@ -2,7 +2,7 @@
 
 ## **Preámbulo**
 
-Lil es una marca 100% mexicana de productos de cuidado personal, elaborados artesanalmente, sin químicos ni conservadores artificiales (Utiliza extracto de semilla toronja como conservador natural).
+Jazhei es una marca 100% mexicana de productos de cuidado personal, elaborados artesanalmente, sin químicos ni conservadores artificiales (Utiliza extracto de semilla toronja como conservador natural).
 
 La idea surge en 2016 debido a los problemas dermatológicos que llevan a su creadora a consultar a especialistas que recomiendan tratamientos dermatológicos de alto costo que no siempre funcionaban, debido a esto se plantea la elaboración de productos de origen natural sin químicos.
 
@@ -16,19 +16,19 @@ En su catálogo cuenta con 10 productos entre los cuales encontramos bálsamo la
 
 ## **Problema**
 
-Lil nos contactó con la preocupación de sus bajas ventas y lo difícil que le ha sido el incrementar el ticket promedio.  Desea implementar una nueva estrategia de venta pero no sabe cuales son sus áreas de oprotunidad. No cuenta con un local establecido, la promoción de su marca y ventas las realiza por medio de una página en Facebook o posteando sus publicaciones en grupos de venta de artículos. Lil ha participado en bazares de productos artesanales para impulsar su venta, pero la inversión para obtener un lugar es muy alto $6´000.00 MXN por fin de semana que sumados a los requisitos que tiene que cubrir para obtener el lugar y inversión adicional en promoción vuelven muy difícil ser constante en éstos espacios donde no siempre recupera la inverión.
+Jazhei nos contactó con la preocupación de sus bajas ventas y lo difícil que le ha sido el incrementar el ticket promedio.  Desea implementar una nueva estrategia de venta pero no sabe cuales son sus áreas de oportunidad. No cuenta con un local establecido, la promoción de su marca y ventas las realiza por medio de una página en Facebook o posteando sus publicaciones en grupos de venta de artículos. Lil ha participado en bazares de productos artesanales para impulsar su venta, pero la inversión para obtener un lugar es muy alto $6´000.00 MXN por fin de semana que sumados a los requisitos que tiene que cubrir para obtener el lugar y inversión adicional en promoción vuelven muy difícil ser constante en éstos espacios donde no siempre recupera la inverión.
 
 
 ## **Investigación**
 
-Iniciamos investigando el mercado cosmético y competidores directos de Lil, obtuvimos información sobre el [incremento económico](http://canipec.org.mx/estadisticas/) del mercado cosmético en años recientes y [algunas normativas](http://www.consultatlcan.senado.gob.mx/docs/CANIPEC.pdf) que se requieren para la producción y venta de productos de cuidado personal y realizamos un [Benchmark ](https://docs.google.com/spreadsheets/d/1EU0JsAEmYC3_kdrIZd2oPwnMJ7C_VWCOj9PrUH-u2Ls/edit) con la información obtenida.
+Iniciamos investigando el mercado cosmético y competidores directos de Jazhei, obtuvimos información sobre el [incremento económico](http://canipec.org.mx/estadisticas/) del mercado cosmético en años recientes y [algunas normativas](http://www.consultatlcan.senado.gob.mx/docs/CANIPEC.pdf) que se requieren para la producción y venta de productos de cuidado personal y realizamos un [Benchmark ](https://docs.google.com/spreadsheets/d/1EU0JsAEmYC3_kdrIZd2oPwnMJ7C_VWCOj9PrUH-u2Ls/edit) con la información obtenida.
 
 Gracias al análisis de éste Benchmark pudimos obtener información sobre márgenes de precios, productos relevantes y la arquitectura de la información que éstos competidores éstan utilizando.
 
 [Entrevistamos en dos ocaciones](https://drive.google.com/open?id=1nWMgfdQJvmdKJy8R8fVe9s7lSGDMUQvB) a nuestra clienta para conocer a fondo tanto su proceso de venta así como el manejo de su marca en redes sociales. Tuvimos además la oportunidad de enviarle un cuestionario solicitando información adicional sobre su forma de producción y sus planes de crecimiento.
 Con ésta información pudimos conocer no solo sus objetivos como empresa si no además algunas limitaciones actuales para llevar a cabo un crecimiento de la marca.
 
-La apertura de nuestra clienta Lil nos permitió acordar una cita para acompañarla a realizar algunas entregas y así poder llevar a cabo una [observación contextual](https://drive.google.com/open?id=1n4mhkvC82dmbtktg6LB4zgebIokO1CtU) del  proceso de venta, además la misma clienta nos brindó contactos de sus clientas habituales para poder realizarles una [entrevista individual](https://drive.google.com/open?id=120hz_bJm1_i6u0FSlokWDms-H19fZLBa) posteriormente. Una vez que llevamos a cabo éstas entrevistas pudimos conocer las fortalezas y puntos de mejora que las clientas actuales ven en Lil, además de entender las motivaciones de las actuales consumidoras de la marca. Con ésta observación entendimos que el proceso actual de distribución tiene varios puntos de dolor tanto para nuestra clienta como para sus consumidoras, pues además de que implica un traslado para ambas a un punto medio, con frecuencia la ventas no llegan a concretarse por el acomodo de las agendas.
+La apertura de nuestra clienta Jazhei nos permitió acordar una cita para acompañarla a realizar algunas entregas y así poder llevar a cabo una [observación contextual](https://drive.google.com/open?id=1n4mhkvC82dmbtktg6LB4zgebIokO1CtU) del  proceso de venta, además la misma clienta nos brindó contactos de sus clientas habituales para poder realizarles una [entrevista individual](https://drive.google.com/open?id=120hz_bJm1_i6u0FSlokWDms-H19fZLBa) posteriormente. Una vez que llevamos a cabo éstas entrevistas pudimos conocer las fortalezas y puntos de mejora que las clientas actuales ven en Lil, además de entender las motivaciones de las actuales consumidoras de la marca. Con ésta observación entendimos que el proceso actual de distribución tiene varios puntos de dolor tanto para nuestra clienta como para sus consumidoras, pues además de que implica un traslado para ambas a un punto medio, con frecuencia la ventas no llegan a concretarse por el acomodo de las agendas.
 Como resultado de la obervación contextual y de las entrevistas pudimos elaborar a nuestras user personas ["Daniela Morán](https://drive.google.com/file/d/1tCeoPWlTR-yKoJUQL1Jb_UZ1umthLO3l/view?usp=sharing), ["Claudia García"](https://drive.google.com/file/d/13C1UOEdW10atmEUg2vFDGlUD7g02kBv3/view?usp=sharing) con sus [mapas de empatía](https://drive.google.com/drive/folders/1ER1ViQDpMLkosS2hIViAx7azGmMS2OQf?usp=sharing); así como el [Customer Journey Map](https://drive.google.com/open?id=1nlQNGkXzFRfpWST2LlEZn1wExclIsTkw) de cada una, incluyendo a nuestra clienta Lil.
 
 También nos dimos a la tarea de entrevistar a mujeres que utilizan productos de cuidado personal de [MARCAS COMERCIALES](https://drive.google.com/open?id=1Yht7535yhlSecP9KqKFaR7RoMFM-B0n8) con el fin de conocer:
@@ -65,7 +65,7 @@ Gracias a toda la información obtenida y los productos obtenidos pudimos identi
 • A pesar de la constante difusión en FB, las ventas siguen siendo escasas.
 
 
-## **Puntos de Dolor detectados en las consumidoras de Lil :**
+## **Puntos de Dolor detectados en las consumidoras de Jazhei :**
 
 • Preocupación por el cuidado de cuerpo sin afectar al medio ambiente.
 
@@ -97,11 +97,11 @@ También se realizó entrevistas a usuarias que se preocupan por el cuidado de l
 
 ## **Propuesta**
 
-Sabiendo que Lil es una pequeña empresa pero con intensiones de crecimiento a corto plazo realizamos las siguientes recomendaciones: 
+Sabiendo que Jazhei es una pequeña empresa pero con intensiones de crecimiento a corto plazo realizamos las siguientes recomendaciones: 
 
 Realizar un cambio de branding:
 
-Aunque ya nuestra clienta nos había comentado que buscaba cambiar el embazado de la marca, durante la investigación vimos la importancia de un cambio integral en la imagen y marca. Tomando en cuenta que el vidrio es un producto más viable para el reciclaje y utilizándolo se mejora en gran medida la imagen pensamos que es un punto importante para tomar en cuenta.
+Aunque ya nuestra clienta nos había comentado que buscaba cambiar el envasado de la marca, durante la investigación vimos la importancia de un cambio integral en la imagen y marca. Tomando en cuenta que el vidrio es un producto más viable para el reciclaje y utilizándolo se mejora en gran medida la imagen pensamos que es un punto importante para tomar en cuenta.
 
 En cuanto al logo actual encontramos que aunque la paleta de colores elegida cumplía la intensión de la creadora, que era identificarse con un público de mujeres primordialmente feministas, al ampliar el margen de mercado con mujeres que no necesariamente se identifican con ésta ideologia recomendamos la utilización de verdes que remiten a lo natural para llegar a nuestras usuarias potenciales y a las cautivas. Creamos una slogan que identifica a la marca y nuestro público, además agregamos un elemento vivo, una libélula para reforzar la idea de movimiento y de la naturaleza.
 
@@ -116,7 +116,7 @@ Imprementación de E-commerce:
 
 Para poder llevar a cabo la implementación de un e-commerce recomendamos contar con un stock en inventario que permita a nuestra clienta cumplir con sus entregas e incrementar su producción de forma gradual, acorde al nivel de respuesta que se genere en el e-commerce.
 
-En éste sentido buscamos tambien alternativas para  que Lil como pequeña empresa no resienta el incremento de los costos de cambio de envasado, comercialización on-line, comisiones de proveedores de cobro on-line y paquetería. Por lo que además de sugerir un cambio de precios (que sigue dejando precios bajos dentro del mercado de productos naturales) buscamos las mejores alternativas de [provedores de cobro](https://docs.google.com/document/d/1_8hjKyGHhuzbUOD1zbryVptvsj0r6V2pPEmpu-KUqAo/edit?usp=sharing) y las [paqueterías en CDMX](https://drive.google.com/file/d/1zDNJkUefTxrgp66KMatkpgQ0H9d7RHIh/view?usp=sharing) y en el [resto de la república](https://www.fedex.com/mx/index.html?cmp=KNC-1004726-112-2-950-1000000-LAC-MX-ES-MXRGPURBRANDBMM&gclid=CjwKCAjwoMPcBRAWEiwAiAqZh1ok6ppPB8US34WqJvwufACE-vUiCKkGcZXmHpRVGuEuEOr2mX1apRoCSMcQAvD_BwE) más competitivas.
+En éste sentido buscamos tambien alternativas para  que Jazhei como pequeña empresa no resienta el incremento de los costos de cambio de envasado, comercialización on-line, comisiones de proveedores de cobro on-line y paquetería. Por lo que además de sugerir un cambio de precios (que sigue dejando precios bajos dentro del mercado de productos naturales) buscamos las mejores alternativas de [provedores de cobro](https://docs.google.com/document/d/1_8hjKyGHhuzbUOD1zbryVptvsj0r6V2pPEmpu-KUqAo/edit?usp=sharing) y las [paqueterías en CDMX](https://drive.google.com/file/d/1zDNJkUefTxrgp66KMatkpgQ0H9d7RHIh/view?usp=sharing) y en el [resto de la república](https://www.fedex.com/mx/index.html?cmp=KNC-1004726-112-2-950-1000000-LAC-MX-ES-MXRGPURBRANDBMM&gclid=CjwKCAjwoMPcBRAWEiwAiAqZh1ok6ppPB8US34WqJvwufACE-vUiCKkGcZXmHpRVGuEuEOr2mX1apRoCSMcQAvD_BwE) más competitivas.
 
 Tomando en cuenta todos los puntos mencionados realizamos la propuesta de E-Commerce que permitirá llegar a un público más amplio, incrementar ventas sin limitación, que no tendrá limitación de horarios comerciales, que impulse el crecimiento y permanencia en el mercado y que mejore la imagen y prestigio de la marca generando confianza en los clientes potenciales y cautivas, iniciamos tomando en cuenta un primer [Flow Chart](https://whimsical.co/N8VDyP7sGTGRhJCr1ZbtVg) para empezar a esbozar la tienda de nuestra clienta.
 

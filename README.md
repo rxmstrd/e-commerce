@@ -39,8 +39,10 @@ También nos dimos a la tarea de entrevistar a mujeres que utilizan productos de
 
 Éstas entrevistas fueron de suma importancia en la elaboración de nuestra propuesta pues descubrimos una [user persona](https://drive.google.com/file/d/1LoxI3ZXxtOLmCaCB-kIN7rPTb-erOEtu/view?usp=sharing) y su [mapa de empatía](https://drive.google.com/file/d/16LOs80T76bMNsMvkuZNsxFlcoa0a3I-7/view?usp=sharing) de ésta clienta potencial pues cuenta con rutinas de cuidado personal, presupuestos mensuales para éste tipo de productos y además tiene la inquietud sobre los productos naturales pero carece de información y tiene dos prejuicios importantes:
 
-• 1.- Los productos naturales u orgánicos son muy caros.
-• 2.- Los productos naturales y orgánicos requieren una inversión mucho mayor de tiempo en la rutina de cuidado personal.
+- Los productos naturales u orgánicos son muy caros.
+
+
+- Los productos naturales y orgánicos requieren una inversión mucho mayor de tiempo en la rutina de cuidado personal.
 
 Gracias a toda la información obtenida y los productos obtenidos pudimos identificar áreas de oportunidad y recabar la información necesaria para identificar las necesidades del negocio y del usuario que fueron la base para la elaboración de la propuesta que realizamos a nuestra clienta.
 
@@ -85,7 +87,7 @@ También se realizó entrevistas a usuarias que se preocupan por el cuidado de l
 
 •  Prefieren marcas de prestigio, pero también consumen productos por su bajo costo.
 
-•  Conocen poco sobre las afectaciones al medio ambiente de la industria cosmética y ésta       información tiene poca influencia en sus hábitos compra.
+•  Conocen poco sobre las afectaciones al medio ambiente de la industria cosmética y ésta información tiene poca influencia en sus hábitos compra.
 
 • Piensan que los productos artesanales son muy caros.
 
@@ -103,7 +105,7 @@ Aunque ya nuestra clienta nos había comentado que buscaba cambiar el embazado d
 
 En cuanto al logo actual encontramos que aunque la paleta de colores elegida cumplía la intensión de la creadora, que era identificarse con un público de mujeres primordialmente feministas, al ampliar el margen de mercado con mujeres que no necesariamente se identifican con ésta ideologia recomendamos la utilización de verdes que remiten a lo natural para llegar a nuestras usuarias potenciales y a las cautivas. Creamos una slogan que identifica a la marca y nuestro público, además agregamos un elemento vivo, una libélula para reforzar la idea de movimiento y de la naturaleza.
 
-Cabe señalar que la nueva imagen integrada a la propuesta de E-Commerce ha funcionado muy bien, pues tanto las mujeres testeadas como algunas compañeras presentes en la demostración del producto se han interesado en conocer Jazhei y han señalado las ganas de adquirir algunos de los productos.
+Cabe señalar que la nueva imagen integrada a la propuesta de E-Commerce ha funcionado muy bien, pues 7 de 10 mujeres que vieron el producto o fueron [testeadas](https://drive.google.com/drive/folders/1xAu3N8S6eCaeYOnALdnt7Fash23YlovA?usp=sharing) señalaron la intensión de compra. 
 
 Sin embargo, siendo ésta parte de la propuesta la más drástica pues renueva la marca por completo hemos recomendado considerarla con base en éstos resultados, pero en caso de permanecer con el logo anterior marcar más la jerarquía de la información en la etiqueta.
 
